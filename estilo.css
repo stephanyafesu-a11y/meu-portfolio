@@ -1,0 +1,17 @@
+/* css externo */
+
+body {
+    background:hsl(266, 9%, 16%); /* cor fundo */
+    color: #f3f3f5; /* cor do TEXTO */
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+a {
+    color: #f3f3f5;
+    text-decoration:none;
+}
+
+ul{
+    list-style:none; /* estilo de lista*/
+}
